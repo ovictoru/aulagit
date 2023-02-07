@@ -1,3 +1,4 @@
 Docker é um Gerenciador de Containers.
 Esta linha foi inserida no GitHub.
 Esta linha foi inserida na ramificação ramo1.
+Esta linha vai gerar um conflito local.
